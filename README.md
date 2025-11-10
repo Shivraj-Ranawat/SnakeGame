@@ -11,8 +11,8 @@ This Snake Game is a classic arcade-style game built using Java. The player cont
 6. Easy-to-understand code structure
 
 # Tech Stack
-# Language: Java
-# GUI Framework: Swing / AWT (based on your version)
+ Language: Java
+ GUI Framework: Swing / AWT (based on your version)
 
 # How to Run
 
